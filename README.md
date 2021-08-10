@@ -17,4 +17,4 @@ jupylabel.run()
 ```
 
 ### Demo
-TODO
+![IDKctJZaRi](https://user-images.githubusercontent.com/55321059/128791683-b78b9e93-a1be-4995-bbe5-fa5d8f645111.gif)
