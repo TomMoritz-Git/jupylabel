@@ -13,7 +13,7 @@ Create the jupylabel conda environment and activate it:
 conda env create --file jupylabel.yml
 conda activate jupylabel
 ```
-Import the libary and start to label your data:
+In a new jupyter notebook, import the libary and start to label your data right away:
 ```python
 import jupylabel
 jupylabel.run()
