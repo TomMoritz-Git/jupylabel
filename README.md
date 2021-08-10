@@ -1,5 +1,6 @@
 # jupylabel
-Quick and easy way to label your image dataset from a jupyter notebook.
+A quick and easy way to label your image dataset from a jupyter notebook.
+The project was done is ~1h so don't expect comments, clean error handlers, etc.
 
 ### Getting started
 Clone this repository:
